@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pedroppbraga
+- 👋 Hi, i’m @pedroppbraga.
 - 👀 I’m interested in artificial inteligence 🤖 and web development 🌐.
 - 🌱 I’m currently learning python 🐍 and javascript.
 - 💞️ I’m looking to collaborate on software development.
