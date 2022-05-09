@@ -1,4 +1,4 @@
-- 👋 Hi, i’m @pedroppbraga and 26 years old.
+- 👋 Hi, i’m @pedroppbraga.
 - 💞️ I’m interested in artificial inteligence 🤖 and web development 🌐.
 - 🌱 I’m currently learning Python 🐍, Javascript and SQL.
 - 👀 I’m looking to collaborate on Software Development.
