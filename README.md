@@ -18,5 +18,22 @@ You can click the Preview link to take a look at your changes.
 Como botar tag:
 <a href="link" target ="_blank"><img src="INSIRAAAAAAAAA"></a>
 
+Site de badges:
+https://dev.to/envoy_/150-badges-for-github-pnk
 
+Site de emojis:
+https://emojipedia.org/smiling-face-with-hearts/
+
+Vídeo sobre personalização do git:
+https://www.youtube.com/watch?v=TsaLQAetPLU
+
+Repositório do roteiro desse vídeo: https://github.com/rafaballerini/Perf...
+Repositório do meu perfil - https://github.com/rafaballerini/rafa...
+Guia de markdown - https://docs.pipz.com/central-de-ajud...
+Site de emojis - https://emojipedia.org/search/?q=bag
+Repositório do Github Stats - https://github.com/anuraghazra/github...
+Site de Badges 1 - https://dev.to/envoy_/150-badges-for-...
+Fazedor de gifs - https://picrew.me/image_maker/338224
+Passo a passo de como adicionar a cobrinha de commit - https://www.instagram.com/p/CPjUBhXDNEE/
 --->
+
