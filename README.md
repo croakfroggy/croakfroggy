@@ -8,8 +8,9 @@
   
 <a href="link" target ="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a> <a href="link" target ="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a> <a href="link" target ="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 
-- 🏢 Bachelor’s degree in Business Administration (4 years in Brazil).
-- 💻 Currently studying the 1st semester of Computer Science (4 years in Brazil).   🥰🙏
+- 💻 Currently studying the 1st semester of Computer Science (4 years in Brazil, 2022-2026).   🥰🙏
+- 🏢 Bachelor’s degree in Business Administration (4 years in Brazil, 2015-2018).
+
 
 <!---
 pedroppbraga/pedroppbraga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
