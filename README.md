@@ -1,6 +1,6 @@
 - 👋 Hi, i’m @pedroppbraga.
 - 💞️ I’m interested in web development 🌐 and artificial inteligence 🤖.
-- 🌱 I’m currently learning Javascript, Python 🐍, C# and SQL.
+- 🌱 I’m currently learning Javascript, Python 🐍, C#, SQL and some related tools.
 - 👀 I’m looking to collaborate on Software Development.
 - 📫 Reach me in pedroppbraga@gmail.com
 
