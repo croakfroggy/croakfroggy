@@ -1,6 +1,6 @@
 - 👋 Hi, i’m Pedro.
 - 💞️ I’m interested in game development 🕹️, artificial inteligence 🤖 and web development 🌐.
-- 🌱 I’m currently learning C++, Javascript, Python 🐍, SQL and some related tools.
+- 🌱 I’m currently learning C++, Python 🐍, Javascript, SQL and some related tools.
 - 👀 I’m looking to collaborate on Software Development.
 - 📫 Reach me in ___
 
