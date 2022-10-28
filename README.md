@@ -2,12 +2,12 @@
 
 - Artificial inteligence 🤖;
 - Chatbots and natural language processing;
-- Physics simulations and math related scripts;
+- Physics simulations and math related scripts and libraries;
 - Web development 🌐;
 - Game development 🕹️;
 - And UX and UI for mobile and desktop programs.
 
-- 🌱 I’m currently learning and improving my Python 🐍, C++, Javascript, SQL, Haskell, Fortran and some related tools and skills.
+- 🌱 I’m currently learning and improving my Python 🐍, C++, Javascript, SQL, Haskell, Fortran, Wolfram Mathematica, Gnuplot and some related tools and skills.
 - 👀 I’m looking to collaborate on Software Development in any of these areas.
 - 📫 Send me a message.
 
