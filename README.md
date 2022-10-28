@@ -1,8 +1,8 @@
-- 👋 Hi, i’m Pedro.
+- 👋 Hi, i’m Croak.
 - 💞️ I’m interested in game development 🕹️, artificial inteligence 🤖 and web development 🌐.
 - 🌱 I’m currently learning C++, Python 🐍, Javascript, SQL and some related tools.
 - 👀 I’m looking to collaborate on Software Development.
-- 📫 Reach me in ___
+- 📫 Send me a message.
 
 
 <a href="link" target ="_blank"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a> 
