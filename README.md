@@ -1,5 +1,11 @@
-- 👋 Hi, i’m Croak.
-- 💞️ I’m interested in game development 🕹️, artificial inteligence 🤖 and web development 🌐.
+👋 Hi, i’m Croak. 💞️ I’m interested in:
+- Artificial inteligence 🤖;
+- Chatbots and natural language processing;
+- Physics simulations and math related scripts;
+- Web development 🌐;
+- Game development 🕹️;
+- And a little bit of UX and UI for mobile apps.
+
 - 🌱 I’m currently learning C++, Python 🐍, Javascript, SQL and some related tools.
 - 👀 I’m looking to collaborate on Software Development.
 - 📫 Send me a message.
