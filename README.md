@@ -1,7 +1,7 @@
 👋 Hi, i’m Croak. 💞️ I’m interested in:
 
 - AI 🤖, ML/DL, computer vision and natural language processing;
-- Physics simulations and math related scripts and libraries;
+- Physics simulations and math related scripts/libraries;
 - Geoprocessing;
 - Web development 🌐 front-end (since ~2001);
 - Game development 🕹️ (for fun);
